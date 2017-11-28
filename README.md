@@ -14,4 +14,6 @@
 ## Observaciones:
 ---
 ### Este proyecto contiene un sprite.
-Se trata
+#### Se trata de la nave. El html contiene dos imágenes de la nave, una, simplemente con la nave y la otra, la nave con propulsión para mostrar cuando el jugador active el motor.
+### Modificaciones del proyecto presentado.
+#### EL diseñador presentó para los controles de la nave y el menú, dos imagenes. Para la implementación del juego ha sido necesario la creación de cajas y botones para la visualización y control de los diferentes elementos. Se han utilizado las herramientas `div` para llevar a cabo dicha tarea.
